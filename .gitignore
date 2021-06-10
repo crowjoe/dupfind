@@ -13,3 +13,10 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+*.swp
+/dupfind
+/cmd/dupfind/dupfind
+/temp
+/.vscode
+.DS_Store
