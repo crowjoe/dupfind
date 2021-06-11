@@ -1,4 +1,4 @@
-# dupfind: the duplicate file finder
+# dupfind: the fast duplicate file finder
 
 ### Summary
 
